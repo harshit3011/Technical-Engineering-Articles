@@ -1,0 +1,322 @@
+{
+  "categories": [
+    "HLD",
+    "LLD",
+    "Backend Engineering",
+    "Engineering Articles",
+    "Distributed Systems",
+    "Databases",
+    "DevOps",
+    "Misc"
+  ],
+  "articles": [
+    {
+      "title": "Design Bit.ly and Pastebin",
+      "url": "https://x.com/Harry_The_Nerd/status/2044672371546877964",
+      "category": "HLD",
+      "date": "2026-04-16",
+      "description": "Walkthrough of designing URL shorteners and paste-sharing services."
+    },
+    {
+      "title": "Design A Notification System",
+      "url": "https://x.com/Harry_The_Nerd/status/2044839667267494292",
+      "category": "HLD",
+      "date": "2026-04-16",
+      "description": "System design for a scalable multi-channel notification system."
+    },
+    {
+      "title": "Design A Rate Limiter",
+      "url": "https://x.com/Harry_The_Nerd/status/2045533839649624096",
+      "category": "HLD",
+      "date": "2026-04-18",
+      "description": "Algorithms and architecture for rate limiting at scale."
+    },
+    {
+      "title": "Design Autocomplete For Search Engines",
+      "url": "https://x.com/Harry_The_Nerd/status/2045906641967833171",
+      "category": "HLD",
+      "date": "2026-04-19",
+      "description": "Designing a low-latency autocomplete/typeahead system."
+    },
+    {
+      "title": "Design a Load Balancer",
+      "url": "https://x.com/Harry_The_Nerd/status/2046465659551576395",
+      "category": "HLD",
+      "date": "2026-04-21",
+      "description": "How load balancers work and how to design one from scratch."
+    },
+    {
+      "title": "Design a Content Delivery Network",
+      "url": "https://x.com/Harry_The_Nerd/status/2046578404758295032",
+      "category": "HLD",
+      "date": "2026-04-21",
+      "description": "CDN architecture, caching strategies, and edge delivery."
+    },
+    {
+      "title": "Design a Distributed Key-Value store",
+      "url": "https://x.com/Harry_The_Nerd/status/2047329176982827353",
+      "category": "HLD",
+      "date": "2026-04-23",
+      "description": "Designing a distributed key-value store with partitioning and replication."
+    },
+    {
+      "title": "Design A Distributed Cache",
+      "url": "https://x.com/Harry_The_Nerd/status/2048052028174463278",
+      "category": "HLD",
+      "date": "2026-04-25",
+      "description": "Architecture of a distributed caching layer."
+    },
+    {
+      "title": "Design an Authentication System",
+      "url": "https://x.com/Harry_The_Nerd/status/2048758919770816850",
+      "category": "HLD",
+      "date": "2026-04-27",
+      "description": "Designing a scalable authentication and session management system."
+    },
+    {
+      "title": "HTTP & Routing",
+      "url": "https://x.com/Harry_The_Nerd/status/2053366145995178087",
+      "category": "Backend Engineering",
+      "date": "2026-05-10",
+      "description": "Core concepts of HTTP and routing in backend systems."
+    },
+    {
+      "title": "Serialization, Deserialization, Authentication and Authorization",
+      "url": "https://x.com/Harry_The_Nerd/status/2053487726033559704",
+      "category": "Backend Engineering",
+      "date": "2026-05-10",
+      "description": "Backend fundamentals: serialization, auth, and authz."
+    },
+    {
+      "title": "Validation, Transformation, Controllers, Middlewares",
+      "url": "https://x.com/Harry_The_Nerd/status/2053882356071911853",
+      "category": "Backend Engineering",
+      "date": "2026-05-11",
+      "description": "Request handling patterns: validation, transformation, controllers, middleware."
+    },
+    {
+      "title": "Rest API Design",
+      "url": "https://x.com/Harry_The_Nerd/status/2054882198604628305",
+      "category": "Backend Engineering",
+      "date": "2026-05-14",
+      "description": "Principles and best practices for designing REST APIs."
+    },
+    {
+      "title": "LLD Concepts",
+      "url": "https://x.com/Harry_The_Nerd/status/2055635966568620167",
+      "category": "LLD",
+      "date": "2026-05-16",
+      "description": "Core low-level design concepts for interviews and practice."
+    },
+    {
+      "title": "Design a basic Music System",
+      "url": "https://x.com/Harry_The_Nerd/status/2056620076246479055",
+      "category": "LLD",
+      "date": "2026-05-19",
+      "description": "Low-level design of a basic music streaming/playback system."
+    },
+    {
+      "title": "Tricky HLD Patterns for interviews",
+      "url": "https://x.com/Harry_The_Nerd/status/2056739488114856226",
+      "category": "HLD",
+      "date": "2026-05-19",
+      "description": "Commonly missed high-level design patterns for interviews."
+    },
+    {
+      "title": "Design Consistent Hashing",
+      "url": "https://x.com/Harry_The_Nerd/status/2057098732328648808",
+      "category": "HLD",
+      "date": "2026-05-20",
+      "description": "How consistent hashing works and where it's used."
+    },
+    {
+      "title": "Design A Unique ID Generator in Distributed Systems",
+      "url": "https://x.com/Harry_The_Nerd/status/2057461354114728238",
+      "category": "HLD",
+      "date": "2026-05-21",
+      "description": "Designing a distributed unique ID generator (e.g. Snowflake-style)."
+    },
+    {
+      "title": "Design a Parking Lot",
+      "url": "https://x.com/Harry_The_Nerd/status/2057821348450402614",
+      "category": "LLD",
+      "date": "2026-05-22",
+      "description": "Classic LLD problem: designing a parking lot system."
+    },
+    {
+      "title": "Design A News-Feed System",
+      "url": "https://x.com/Harry_The_Nerd/status/2058553384735842654",
+      "category": "HLD",
+      "date": "2026-05-24",
+      "description": "System design for a scalable news feed."
+    },
+    {
+      "title": "Design Youtube",
+      "url": "https://x.com/Harry_The_Nerd/status/2060001018134553006",
+      "category": "LLD",
+      "date": "2026-05-28",
+      "description": "Low-level design walkthrough for a YouTube-like system."
+    },
+    {
+      "title": "Design a Vending Machine",
+      "url": "https://x.com/Harry_The_Nerd/status/2060348729929175403",
+      "category": "LLD",
+      "date": "2026-05-29",
+      "description": "Classic LLD problem: designing a vending machine."
+    },
+    {
+      "title": "A Complete Guide to Redis",
+      "url": "https://x.com/Harry_The_Nerd/status/2061076806552392055",
+      "category": "Engineering Articles",
+      "date": "2026-05-31",
+      "description": "In-depth guide covering Redis internals and use cases."
+    },
+    {
+      "title": "Design A Chat System",
+      "url": "https://x.com/Harry_The_Nerd/status/2061445321910284589",
+      "category": "HLD",
+      "date": "2026-06-01",
+      "description": "System design for a real-time chat application."
+    },
+    {
+      "title": "Apache Kafka: Crash Course",
+      "url": "https://x.com/Harry_The_Nerd/status/2062165677033820383",
+      "category": "Engineering Articles",
+      "date": "2026-06-03",
+      "description": "Crash course covering Apache Kafka fundamentals."
+    },
+    {
+      "title": "Design Youtube",
+      "url": "https://x.com/Harry_The_Nerd/status/2062909779576791167",
+      "category": "HLD",
+      "date": "2026-06-05",
+      "description": "High-level design walkthrough for a YouTube-like system."
+    },
+    {
+      "title": "Design Spotify",
+      "url": "https://x.com/Harry_The_Nerd/status/2063952850531897396",
+      "category": "HLD",
+      "date": "2026-06-08",
+      "description": "System design for a music streaming platform like Spotify."
+    },
+    {
+      "title": "Design Instagram",
+      "url": "https://x.com/Harry_The_Nerd/status/2065074213665579192",
+      "category": "HLD",
+      "date": "2026-06-12",
+      "description": "System design for a photo/video sharing platform like Instagram."
+    },
+    {
+      "title": "Design Tinder",
+      "url": "https://x.com/Harry_The_Nerd/status/2065790968448909572",
+      "category": "HLD",
+      "date": "2026-06-13",
+      "description": "System design for a location-based matching app like Tinder."
+    },
+    {
+      "title": "AWS Certified Solutions Architect - Associate SAA-C03 Exam Tricks",
+      "url": "https://x.com/Harry_The_Nerd/status/2066793644783513735",
+      "category": "Engineering Articles",
+      "date": "2026-06-16",
+      "description": "Tips and tricks for passing the AWS SAA-C03 exam."
+    },
+    {
+      "title": "Design Reddit",
+      "url": "https://x.com/Harry_The_Nerd/status/2067615247259811850",
+      "category": "HLD",
+      "date": "2026-06-18",
+      "description": "System design for a forum/link-aggregation platform like Reddit."
+    },
+    {
+      "title": "Design Twitter",
+      "url": "https://x.com/Harry_The_Nerd/status/2068309801638195531",
+      "category": "HLD",
+      "date": "2026-06-20",
+      "description": "System design for a microblogging platform like Twitter."
+    },
+    {
+      "title": "A Complete Guide For Claude Certified Architect Foundations (CCA-F) Exam",
+      "url": "https://x.com/Harry_The_Nerd/status/2069050669487809004",
+      "category": "Engineering Articles",
+      "date": "2026-06-22",
+      "description": "Guide covering the Claude Certified Architect Foundations exam."
+    },
+    {
+      "title": "Netflix Recommendation System - Machine Learning System Design",
+      "url": "https://x.com/Harry_The_Nerd/status/2069785739810705773",
+      "category": "Engineering Articles",
+      "date": "2026-06-24",
+      "description": "ML system design breakdown of Netflix's recommendation engine."
+    },
+    {
+      "title": "Design Amazon",
+      "url": "https://x.com/Harry_The_Nerd/status/2070543086258979132",
+      "category": "HLD",
+      "date": "2026-06-26",
+      "description": "System design for an e-commerce platform like Amazon."
+    },
+    {
+      "title": "Design Netflix",
+      "url": "https://x.com/Harry_The_Nerd/status/2071256571028648283",
+      "category": "HLD",
+      "date": "2026-06-28",
+      "description": "System design for a video streaming platform like Netflix."
+    },
+    {
+      "title": "How To Get Started With Writing- Technical and Creative",
+      "url": "https://x.com/Harry_The_Nerd/status/2072219094728978564",
+      "category": "Engineering Articles",
+      "date": "2026-07-01",
+      "description": "Advice on getting started with technical and creative writing."
+    },
+    {
+      "title": "Databases in Depth Part-1",
+      "url": "https://x.com/Harry_The_Nerd/status/2073772366094602241",
+      "category": "Backend Engineering",
+      "date": "2026-07-05",
+      "description": "Part 1 of a deep dive into database internals."
+    },
+    {
+      "title": "How JavaScript Executes The Code - Behind The Scenes",
+      "url": "https://x.com/Harry_The_Nerd/status/2075158256826335454",
+      "category": "Engineering Articles",
+      "date": "2026-07-09",
+      "description": "How the JavaScript engine executes code under the hood."
+    },
+    {
+      "title": "Databases in Depth Part-2",
+      "url": "https://x.com/Harry_The_Nerd/status/2075942037732667812",
+      "category": "Backend Engineering",
+      "date": "2026-07-11",
+      "description": "Part 2 of a deep dive into database internals."
+    },
+    {
+      "title": "Databases in Depth Part-3",
+      "url": "https://x.com/Harry_The_Nerd/status/2076649413435687097",
+      "category": "Backend Engineering",
+      "date": "2026-07-13",
+      "description": "Part 3 of a deep dive into database internals."
+    },
+    {
+      "title": "Caching, Task Queues, Error Handling, Logging, Monitoring",
+      "url": "https://x.com/Harry_The_Nerd/status/2077400118647750968",
+      "category": "Backend Engineering",
+      "date": "2026-07-15",
+      "description": "Backend fundamentals: caching, task queues, error handling, logging, monitoring."
+    },
+    {
+      "title": "Security, Scaling & Performance, Concurrency & Parallelism",
+      "url": "https://x.com/Harry_The_Nerd/status/2077722979882963122",
+      "category": "Backend Engineering",
+      "date": "2026-07-16",
+      "description": "Backend fundamentals: security, scaling, performance, concurrency."
+    },
+    {
+      "title": "Python's Inner Working - Behind The Scenes",
+      "url": "https://x.com/Harry_The_Nerd/status/2078116519029129646",
+      "category": "Engineering Articles",
+      "date": "2026-07-17",
+      "description": "How Python executes code under the hood."
+    }
+  ]
+}
