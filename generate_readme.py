@@ -1,13 +1,5 @@
 #!/usr/bin/env python3
-"""
-Regenerates README.md from articles.json.
 
-Usage:
-    python3 generate_readme.py
-
-Just add a new entry to articles.json (under "articles") and rerun this
-script, then commit both files.
-"""
 import json
 from collections import defaultdict
 from pathlib import Path
