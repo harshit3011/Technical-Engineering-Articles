@@ -7,15 +7,17 @@ Each entry links straight to the original thread.
 
 ## Contents
 
-- [HLD](#hld) (22)
+- [HLD](#hld) (23)
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (8)
+- [Microservices](#microservices) (1)
 
 ## HLD
 
 | Article | Description | Date |
 |---|---|---|
+| [Design Airbnb](https://x.com/Harry_The_Nerd/status/2079561027788611975) | System design for a hotel-booking platform like Airbnb. | 2026-07-17 |
 | [Design Netflix](https://x.com/Harry_The_Nerd/status/2071256571028648283) | System design for a video streaming platform like Netflix. | 2026-06-28 |
 | [Design Amazon](https://x.com/Harry_The_Nerd/status/2070543086258979132) | System design for an e-commerce platform like Amazon. | 2026-06-26 |
 | [Design Twitter](https://x.com/Harry_The_Nerd/status/2068309801638195531) | System design for a microblogging platform like Twitter. | 2026-06-20 |
@@ -75,6 +77,12 @@ Each entry links straight to the original thread.
 | [AWS Certified Solutions Architect - Associate SAA-C03 Exam Tricks](https://x.com/Harry_The_Nerd/status/2066793644783513735) | Tips and tricks for passing the AWS SAA-C03 exam. | 2026-06-16 |
 | [Apache Kafka: Crash Course](https://x.com/Harry_The_Nerd/status/2062165677033820383) | Crash course covering Apache Kafka fundamentals. | 2026-06-03 |
 | [A Complete Guide to Redis](https://x.com/Harry_The_Nerd/status/2061076806552392055) | In-depth guide covering Redis internals and use cases. | 2026-05-31 |
+
+## Microservices
+
+| Article | Description | Date |
+|---|---|---|
+| [Mental Model for Microservices](http://x.com/Harry_The_Nerd/status/2080261902593065465) | A introduction to Microservices | 2026-07-17 |
 
 
 ---

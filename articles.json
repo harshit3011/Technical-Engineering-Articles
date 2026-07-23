@@ -7,6 +7,7 @@
     "Distributed Systems",
     "Databases",
     "DevOps",
+    "Microservices",
     "Misc"
   ],
   "articles": [
@@ -317,6 +318,20 @@
       "category": "Engineering Articles",
       "date": "2026-07-17",
       "description": "How Python executes code under the hood."
+    },
+    {
+      "title": "Design Airbnb",
+      "url": "https://x.com/Harry_The_Nerd/status/2079561027788611975",
+      "category": "HLD",
+      "date": "2026-07-17",
+      "description": "System design for a hotel-booking platform like Airbnb."
+    },
+    {
+      "title": "Mental Model for Microservices",
+      "url": "http://x.com/Harry_The_Nerd/status/2080261902593065465",
+      "category": "Microservices",
+      "date": "2026-07-17",
+      "description": "A introduction to Microservices"
     }
   ]
 }
