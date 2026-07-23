@@ -82,7 +82,7 @@ Each entry links straight to the original thread.
 
 | Article | Description | Date |
 |---|---|---|
-| [Mental Model for Microservices](http://x.com/Harry_The_Nerd/status/2080261902593065465) | A introduction to Microservices | 2026-07-17 |
+| [Mental Model for Microservices](http://x.com/Harry_The_Nerd/status/2080261902593065465) | An introduction to Microservices | 2026-07-17 |
 
 
 ---
