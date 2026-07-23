@@ -17,7 +17,7 @@ Each entry links straight to the original thread.
 
 | Article | Description | Date |
 |---|---|---|
-| [Design Airbnb](https://x.com/Harry_The_Nerd/status/2079561027788611975) | System design for a hotel-booking platform like Airbnb. | 2026-07-17 |
+| [Design Airbnb](https://x.com/Harry_The_Nerd/status/2079561027788611975) | System design for a hotel-booking platform like Airbnb. | 2026-07-21 |
 | [Design Netflix](https://x.com/Harry_The_Nerd/status/2071256571028648283) | System design for a video streaming platform like Netflix. | 2026-06-28 |
 | [Design Amazon](https://x.com/Harry_The_Nerd/status/2070543086258979132) | System design for an e-commerce platform like Amazon. | 2026-06-26 |
 | [Design Twitter](https://x.com/Harry_The_Nerd/status/2068309801638195531) | System design for a microblogging platform like Twitter. | 2026-06-20 |
@@ -82,7 +82,7 @@ Each entry links straight to the original thread.
 
 | Article | Description | Date |
 |---|---|---|
-| [Mental Model for Microservices](http://x.com/Harry_The_Nerd/status/2080261902593065465) | An introduction to Microservices | 2026-07-17 |
+| [Mental Model for Microservices](http://x.com/Harry_The_Nerd/status/2080261902593065465) | An introduction to Microservices | 2026-07-23 |
 
 
 ---
