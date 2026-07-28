@@ -11,7 +11,7 @@ Each entry links straight to the original thread.
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (8)
-- [Microservices](#microservices) (1)
+- [Microservices](#microservices) (6)
 
 ## HLD
 
@@ -82,6 +82,11 @@ Each entry links straight to the original thread.
 
 | Article | Description | Date |
 |---|---|---|
+| [Data Ownership And Read Models](https://x.com/Harry_The_Nerd/status/2081673770092433631) | How services handle data when there's no shared database to fall back on | 2026-07-27 |
+| [Distributed Transactions, Sagas, and Consistency](https://x.com/Harry_The_Nerd/status/2082019622224900154) | What happens when a single business operation needs to update data across multiple services, and there's no shared database transaction to fall back on | 2026-07-27 |
+| [Inter-Service Communication](https://x.com/Harry_The_Nerd/status/2081302031646806047) | How services communicate with each other | 2026-07-26 |
+| [Service Decomposition And Boundaries](https://x.com/Harry_The_Nerd/status/2080943768153596085) | Decomposition of Services | 2026-07-25 |
+| [Monolith To Microservices](https://x.com/Harry_The_Nerd/status/2080659276998291721) | From a plain monolith to true microservices | 2026-07-24 |
 | [Mental Model for Microservices](http://x.com/Harry_The_Nerd/status/2080261902593065465) | An introduction to Microservices | 2026-07-23 |
 
 

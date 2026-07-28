@@ -332,6 +332,41 @@
       "category": "Microservices",
       "date": "2026-07-23",
       "description": "An introduction to Microservices"
+    },
+    {
+      "title": "Monolith To Microservices",
+      "url": "https://x.com/Harry_The_Nerd/status/2080659276998291721",
+      "category": "Microservices",
+      "date": "2026-07-24",
+      "description": "From a plain monolith to true microservices"
+    },
+    {
+      "title": "Service Decomposition And Boundaries",
+      "url": "https://x.com/Harry_The_Nerd/status/2080943768153596085",
+      "category": "Microservices",
+      "date": "2026-07-25",
+      "description": "Decomposition of Services"
+    },
+    {
+      "title": "Inter-Service Communication",
+      "url": "https://x.com/Harry_The_Nerd/status/2081302031646806047",
+      "category": "Microservices",
+      "date": "2026-07-26",
+      "description": "How services communicate with each other"
+    },
+    {
+      "title": "Data Ownership And Read Models",
+      "url": "https://x.com/Harry_The_Nerd/status/2081673770092433631",
+      "category": "Microservices",
+      "date": "2026-07-27",
+      "description": "How services handle data when there's no shared database to fall back on"
+    },
+    {
+      "title": "Distributed Transactions, Sagas, and Consistency",
+      "url": "https://x.com/Harry_The_Nerd/status/2082019622224900154",
+      "category": "Microservices",
+      "date": "2026-07-27",
+      "description": "What happens when a single business operation needs to update data across multiple services, and there's no shared database transaction to fall back on"
     }
   ]
 }
