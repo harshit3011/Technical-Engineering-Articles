@@ -365,8 +365,22 @@
       "title": "Distributed Transactions, Sagas, and Consistency",
       "url": "https://x.com/Harry_The_Nerd/status/2082019622224900154",
       "category": "Microservices",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "description": "What happens when a single business operation needs to update data across multiple services, and there's no shared database transaction to fall back on"
+    },
+    {
+      "title": "Design Leetcode",
+      "url": "https://x.com/Harry_The_Nerd/status/2083591314067927258",
+      "category": "HLD",
+      "date": "2026-08-01",
+      "description": "System design for a programming platform like Leetcode"
+    },
+    {
+      "title": "Design Medium",
+      "url": "https://x.com/Harry_The_Nerd/status/2084263186199638124",
+      "category": "HLD",
+      "date": "2026-08-03",
+      "description": "System design for an open publishing and social journalism platform like Medium"
     }
   ]
 }

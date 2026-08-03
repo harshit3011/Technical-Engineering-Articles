@@ -7,7 +7,7 @@ Each entry links straight to the original thread.
 
 ## Contents
 
-- [HLD](#hld) (23)
+- [HLD](#hld) (25)
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (8)
@@ -17,6 +17,8 @@ Each entry links straight to the original thread.
 
 | Article | Description | Date |
 |---|---|---|
+| [Design Medium](https://x.com/Harry_The_Nerd/status/2084263186199638124) | System design for an open publishing and social journalism platform like Medium | 2026-08-03 |
+| [Design Leetcode](https://x.com/Harry_The_Nerd/status/2083591314067927258) | System design for a programming platform like Leetcode | 2026-08-01 |
 | [Design Airbnb](https://x.com/Harry_The_Nerd/status/2079561027788611975) | System design for a hotel-booking platform like Airbnb. | 2026-07-21 |
 | [Design Netflix](https://x.com/Harry_The_Nerd/status/2071256571028648283) | System design for a video streaming platform like Netflix. | 2026-06-28 |
 | [Design Amazon](https://x.com/Harry_The_Nerd/status/2070543086258979132) | System design for an e-commerce platform like Amazon. | 2026-06-26 |
@@ -82,8 +84,8 @@ Each entry links straight to the original thread.
 
 | Article | Description | Date |
 |---|---|---|
+| [Distributed Transactions, Sagas, and Consistency](https://x.com/Harry_The_Nerd/status/2082019622224900154) | What happens when a single business operation needs to update data across multiple services, and there's no shared database transaction to fall back on | 2026-07-28 |
 | [Data Ownership And Read Models](https://x.com/Harry_The_Nerd/status/2081673770092433631) | How services handle data when there's no shared database to fall back on | 2026-07-27 |
-| [Distributed Transactions, Sagas, and Consistency](https://x.com/Harry_The_Nerd/status/2082019622224900154) | What happens when a single business operation needs to update data across multiple services, and there's no shared database transaction to fall back on | 2026-07-27 |
 | [Inter-Service Communication](https://x.com/Harry_The_Nerd/status/2081302031646806047) | How services communicate with each other | 2026-07-26 |
 | [Service Decomposition And Boundaries](https://x.com/Harry_The_Nerd/status/2080943768153596085) | Decomposition of Services | 2026-07-25 |
 | [Monolith To Microservices](https://x.com/Harry_The_Nerd/status/2080659276998291721) | From a plain monolith to true microservices | 2026-07-24 |
