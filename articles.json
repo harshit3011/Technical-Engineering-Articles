@@ -381,6 +381,20 @@
       "category": "HLD",
       "date": "2026-08-03",
       "description": "System design for an open publishing and social journalism platform like Medium"
+    },
+    {
+      "title": "Everything About Machine Learning",
+      "url": "https://x.com/Harry_The_Nerd/status/2086085446300533025",
+      "category": "Machine Learning",
+      "date": "2026-08-08",
+      "description": "An introduction to Machine Learning"
+    },
+    {
+      "title": "Design Google Docs",
+      "url": "https://x.com/Harry_The_Nerd/status/2084263186199638124",
+      "category": "HLD",
+      "date": "2026-08-11",
+      "description": "System design for a real-time collaborative platform like Google Docs"
     }
   ]
 }

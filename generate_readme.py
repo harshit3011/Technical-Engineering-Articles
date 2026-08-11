@@ -45,7 +45,7 @@ def main():
         by_category[a["category"]].append(a)
 
     for cat_articles in by_category.values():
-        cat_articles.sort(key=lambda a: a["date"], reverse=True)
+        cat_articles.sort(key=lambda a: a["date"])
 
     lines = [HEADER]
 
