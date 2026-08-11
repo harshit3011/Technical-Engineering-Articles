@@ -12,6 +12,7 @@ Each entry links straight to the original thread.
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (8)
 - [Microservices](#microservices) (6)
+- [Machine Learning](#machine-learning) (1)
 
 ## HLD
 
@@ -91,6 +92,12 @@ Each entry links straight to the original thread.
 | [Inter-Service Communication](https://x.com/Harry_The_Nerd/status/2081302031646806047) | How services communicate with each other | 2026-07-26 |
 | [Data Ownership And Read Models](https://x.com/Harry_The_Nerd/status/2081673770092433631) | How services handle data when there's no shared database to fall back on | 2026-07-27 |
 | [Distributed Transactions, Sagas, and Consistency](https://x.com/Harry_The_Nerd/status/2082019622224900154) | What happens when a single business operation needs to update data across multiple services, and there's no shared database transaction to fall back on | 2026-07-28 |
+
+## Machine Learning
+
+| Article | Description | Date |
+|---|---|---|
+| [Everything About Machine Learning](https://x.com/Harry_The_Nerd/status/2086085446300533025) | An introduction to Machine Learning | 2026-08-08 |
 
 
 ---
