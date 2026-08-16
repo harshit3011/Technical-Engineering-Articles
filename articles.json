@@ -9,6 +9,7 @@
     "DevOps",
     "Microservices",
     "Machine Learning",
+    "AI Engineering",
     "Misc"
   ],
   "articles": [
@@ -396,6 +397,20 @@
       "category": "HLD",
       "date": "2026-08-11",
       "description": "System design for a real-time collaborative platform like Google Docs"
+    },
+    {
+      "title": "AI Terminology Explained",
+      "url": "https://x.com/Harry_The_Nerd/status/2087837722098700421",
+      "category": "AI Engineering",
+      "date": "2026-08-13",
+      "description": "A Complete Beginner's Glossary for AI Terminology"
+    },
+    {
+      "title": "Design Google Drive",
+      "url": "https://x.com/Harry_The_Nerd/status/2088619948113641872",
+      "category": "HLD",
+      "date": "2026-08-15",
+      "description": "System design of a cloud storage service like Google Drive"
     }
   ]
 }

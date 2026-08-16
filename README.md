@@ -7,12 +7,13 @@ Each entry links straight to the original thread.
 
 ## Contents
 
-- [HLD](#hld) (26)
+- [HLD](#hld) (27)
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (8)
 - [Microservices](#microservices) (6)
 - [Machine Learning](#machine-learning) (1)
+- [AI Engineering](#ai-engineering) (1)
 
 ## HLD
 
@@ -44,6 +45,7 @@ Each entry links straight to the original thread.
 | [Design Leetcode](https://x.com/Harry_The_Nerd/status/2083591314067927258) | System design for a programming platform like Leetcode | 2026-08-01 |
 | [Design Medium](https://x.com/Harry_The_Nerd/status/2084263186199638124) | System design for an open publishing and social journalism platform like Medium | 2026-08-03 |
 | [Design Google Docs](https://x.com/Harry_The_Nerd/status/2084263186199638124) | System design for a real-time collaborative platform like Google Docs | 2026-08-11 |
+| [Design Google Drive](https://x.com/Harry_The_Nerd/status/2088619948113641872) | System design of a cloud storage service like Google Drive | 2026-08-15 |
 
 ## LLD
 
@@ -98,6 +100,12 @@ Each entry links straight to the original thread.
 | Article | Description | Date |
 |---|---|---|
 | [Everything About Machine Learning](https://x.com/Harry_The_Nerd/status/2086085446300533025) | An introduction to Machine Learning | 2026-08-08 |
+
+## AI Engineering
+
+| Article | Description | Date |
+|---|---|---|
+| [AI Terminology Explained](https://x.com/Harry_The_Nerd/status/2087837722098700421) | A Complete Beginner's Glossary for AI Terminology | 2026-08-13 |
 
 
 ---
