@@ -411,6 +411,20 @@
       "category": "HLD",
       "date": "2026-08-15",
       "description": "System design of a cloud storage service like Google Drive"
+    },
+    {
+      "title": "System Design Of A Proximity Service",
+      "url": "https://x.com/Harry_The_Nerd/status/2091192716059459825",
+      "category": "Engineering Articles",
+      "date": "2026-08-22",
+      "description": "Designing a proximity service for discovering nearby apps"
+    },
+    {
+      "title": "Distributed Systems Part-1 (Introduction)",
+      "url": "https://x.com/Harry_The_Nerd/status/2092234002610680246",
+      "category": "Distributed Systems",
+      "date": "2026-08-25",
+      "description": "Distrbibuted Systems: Foundations and the Impossibility Results"
     }
   ]
 }

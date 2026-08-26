@@ -10,7 +10,8 @@ Each entry links straight to the original thread.
 - [HLD](#hld) (27)
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
-- [Engineering Articles](#engineering-articles) (8)
+- [Engineering Articles](#engineering-articles) (9)
+- [Distributed Systems](#distributed-systems) (1)
 - [Microservices](#microservices) (6)
 - [Machine Learning](#machine-learning) (1)
 - [AI Engineering](#ai-engineering) (1)
@@ -83,6 +84,13 @@ Each entry links straight to the original thread.
 | [How To Get Started With Writing- Technical and Creative](https://x.com/Harry_The_Nerd/status/2072219094728978564) | Advice on getting started with technical and creative writing. | 2026-07-01 |
 | [How JavaScript Executes The Code - Behind The Scenes](https://x.com/Harry_The_Nerd/status/2075158256826335454) | How the JavaScript engine executes code under the hood. | 2026-07-09 |
 | [Python's Inner Working - Behind The Scenes](https://x.com/Harry_The_Nerd/status/2078116519029129646) | How Python executes code under the hood. | 2026-07-17 |
+| [System Design Of A Proximity Service](https://x.com/Harry_The_Nerd/status/2091192716059459825) | Designing a proximity service for discovering nearby apps | 2026-08-22 |
+
+## Distributed Systems
+
+| Article | Description | Date |
+|---|---|---|
+| [Distributed Systems Part-1 (Introduction)](https://x.com/Harry_The_Nerd/status/2092234002610680246) | Distrbibuted Systems: Foundations and the Impossibility Results | 2026-08-25 |
 
 ## Microservices
 
