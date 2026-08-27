@@ -11,7 +11,7 @@ Each entry links straight to the original thread.
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (9)
-- [Distributed Systems](#distributed-systems) (1)
+- [Distributed Systems](#distributed-systems) (2)
 - [Microservices](#microservices) (6)
 - [Machine Learning](#machine-learning) (1)
 - [AI Engineering](#ai-engineering) (1)
@@ -91,6 +91,7 @@ Each entry links straight to the original thread.
 | Article | Description | Date |
 |---|---|---|
 | [Distributed Systems Part-1 (Introduction)](https://x.com/Harry_The_Nerd/status/2092234002610680246) | Distrbibuted Systems: Foundations and the Impossibility Results | 2026-08-25 |
+| [Distributed Systems Part-2 (Time, Order, and Causality)](https://x.com/Harry_The_Nerd/status/2092969096774287363) | Distrbibuted Systems: Time, Order, and Causality | 2026-08-27 |
 
 ## Microservices
 
