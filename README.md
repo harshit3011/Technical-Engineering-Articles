@@ -90,8 +90,8 @@ Each entry links straight to the original thread.
 
 | Article | Description | Date |
 |---|---|---|
-| [Distributed Systems Part-1 (Introduction)](https://x.com/Harry_The_Nerd/status/2092234002610680246) | Distrbibuted Systems: Foundations and the Impossibility Results | 2026-08-25 |
-| [Distributed Systems Part-2 (Time, Order, and Causality)](https://x.com/Harry_The_Nerd/status/2092969096774287363) | Distrbibuted Systems: Time, Order, and Causality | 2026-08-27 |
+| [Distributed Systems Part-1 (Introduction)](https://x.com/Harry_The_Nerd/status/2092234002610680246) | Distributed Systems: Foundations and the Impossibility Results | 2026-08-25 |
+| [Distributed Systems Part-2 (Time, Order, and Causality)](https://x.com/Harry_The_Nerd/status/2092969096774287363) | Distributed Systems: Time, Order, and Causality | 2026-08-27 |
 
 ## Microservices
 
