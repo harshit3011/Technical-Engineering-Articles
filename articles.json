@@ -488,7 +488,13 @@
       "category": "HLD",
       "date": "2026-09-20",
       "description": "System design for a mapping and navigation platform like Google Maps"
+    },
+    {
+      "title": "Design A Distributed Message Queue",
+      "url": "https://x.com/Harry_The_Nerd/status/2106418481130516785",
+      "category": "HLD",
+      "date": "2026-10-04",
+      "description": "System design for a distributed message queue and streaming service like Kafka"
     }
-
   ]
 }
