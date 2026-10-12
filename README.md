@@ -7,7 +7,7 @@ Each entry links straight to the original thread.
 
 ## Contents
 
-- [HLD](#hld) (29)
+- [HLD](#hld) (30)
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (10)
@@ -49,6 +49,7 @@ Each entry links straight to the original thread.
 | [Design Google Drive](https://x.com/Harry_The_Nerd/status/2088619948113641872) | System design of a cloud storage service like Google Drive | 2026-08-15 |
 | [Design Google Maps](https://x.com/Harry_The_Nerd/status/2101675662482571673) | System design for a mapping and navigation platform like Google Maps | 2026-09-20 |
 | [Design A Distributed Message Queue](https://x.com/Harry_The_Nerd/status/2106418481130516785) | System design for a distributed message queue and streaming service like Kafka | 2026-10-04 |
+| [Design A Metrics Monitoring and Alerting System](https://x.com/Harry_The_Nerd/status/2108858835440119870) | System design for a scalable metrics monitoring and alerting System | 2026-10-10 |
 
 ## LLD
 
