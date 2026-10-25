@@ -7,7 +7,7 @@ Each entry links straight to the original thread.
 
 ## Contents
 
-- [HLD](#hld) (30)
+- [HLD](#hld) (31)
 - [LLD](#lld) (5)
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (10)
@@ -50,6 +50,7 @@ Each entry links straight to the original thread.
 | [Design Google Maps](https://x.com/Harry_The_Nerd/status/2101675662482571673) | System design for a mapping and navigation platform like Google Maps | 2026-09-20 |
 | [Design A Distributed Message Queue](https://x.com/Harry_The_Nerd/status/2106418481130516785) | System design for a distributed message queue and streaming service like Kafka | 2026-10-04 |
 | [Design A Metrics Monitoring and Alerting System](https://x.com/Harry_The_Nerd/status/2108858835440119870) | System design for a scalable metrics monitoring and alerting System | 2026-10-10 |
+| [Design Discord](https://x.com/Harry_The_Nerd/status/2114362276316942758) | System design for a discord-like platform | 2026-10-25 |
 
 ## LLD
 

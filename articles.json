@@ -502,6 +502,13 @@
       "category": "HLD",
       "date": "2026-10-10",
       "description": "System design for a scalable metrics monitoring and alerting System"
+    },
+    {
+      "title": "Design Discord",
+      "url": "https://x.com/Harry_The_Nerd/status/2114362276316942758",
+      "category": "HLD",
+      "date": "2026-10-25",
+      "description": "System design for a discord-like platform"
     }
   ]
 }
