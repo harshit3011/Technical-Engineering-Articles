@@ -12,9 +12,10 @@ Each entry links straight to the original thread.
 - [Backend Engineering](#backend-engineering) (9)
 - [Engineering Articles](#engineering-articles) (10)
 - [Distributed Systems](#distributed-systems) (8)
+- [DevOps](#devops) (1)
 - [Microservices](#microservices) (6)
 - [Machine Learning](#machine-learning) (1)
-- [AI Engineering](#ai-engineering) (1)
+- [AI Engineering](#ai-engineering) (2)
 
 ## HLD
 
@@ -104,6 +105,12 @@ Each entry links straight to the original thread.
 | [Distributed Systems Part-7 (Failure Detection and Fault Tolerance)](https://x.com/Harry_The_Nerd/status/2096163179596525852) | Failure detetction and fault tolerance in distributed systems | 2026-09-05 |
 | [Distributed Systems Part-8 (Distributed Transactions Revisited)](https://x.com/Harry_The_Nerd/status/2096575304722747738) | Distributed transactions and case-studies | 2026-09-06 |
 
+## DevOps
+
+| Article | Description | Date |
+|---|---|---|
+| [DevOps Bootcamp #1 - Docker](https://x.com/Harry_The_Nerd/status/2118679007353098500) | Understanding what Docker is, how it works inside, and how to use it for real projects | 2026-11-06 |
+
 ## Microservices
 
 | Article | Description | Date |
@@ -126,6 +133,7 @@ Each entry links straight to the original thread.
 | Article | Description | Date |
 |---|---|---|
 | [AI Terminology Explained](https://x.com/Harry_The_Nerd/status/2087837722098700421) | A Complete Beginner's Glossary for AI Terminology | 2026-08-13 |
+| [GenAI Foundations - How LLMs actually work](https://x.com/Harry_The_Nerd/status/2119728019753582928) | Understanding the working of LLMs | 2026-11-09 |
 
 
 ---

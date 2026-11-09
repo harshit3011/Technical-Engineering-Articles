@@ -509,6 +509,20 @@
       "category": "HLD",
       "date": "2026-10-25",
       "description": "System design for a discord-like platform"
+    },
+    {
+      "title": "DevOps Bootcamp #1 - Docker",
+      "url": "https://x.com/Harry_The_Nerd/status/2118679007353098500",
+      "category": "DevOps",
+      "date": "2026-11-06",
+      "description": "Understanding what Docker is, how it works inside, and how to use it for real projects"
+    },
+    {
+      "title": "GenAI Foundations - How LLMs actually work",
+      "url": "https://x.com/Harry_The_Nerd/status/2119728019753582928",
+      "category": "AI Engineering",
+      "date": "2026-11-09",
+      "description": "Understanding the working of LLMs"
     }
   ]
 }
