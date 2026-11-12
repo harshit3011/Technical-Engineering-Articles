@@ -46,7 +46,7 @@ Each entry links straight to the original thread.
 | [Design Airbnb](https://x.com/Harry_The_Nerd/status/2079561027788611975) | System design for a hotel-booking platform like Airbnb. | 2026-07-21 |
 | [Design Leetcode](https://x.com/Harry_The_Nerd/status/2083591314067927258) | System design for a programming platform like Leetcode | 2026-08-01 |
 | [Design Medium](https://x.com/Harry_The_Nerd/status/2084263186199638124) | System design for an open publishing and social journalism platform like Medium | 2026-08-03 |
-| [Design Google Docs](https://x.com/Harry_The_Nerd/status/2084263186199638124) | System design for a real-time collaborative platform like Google Docs | 2026-08-11 |
+| [Design Google Docs](https://x.com/Harry_The_Nerd/status/2087149020011774260) | System design for a real-time collaborative platform like Google Docs | 2026-08-11 |
 | [Design Google Drive](https://x.com/Harry_The_Nerd/status/2088619948113641872) | System design of a cloud storage service like Google Drive | 2026-08-15 |
 | [Design Google Maps](https://x.com/Harry_The_Nerd/status/2101675662482571673) | System design for a mapping and navigation platform like Google Maps | 2026-09-20 |
 | [Design A Distributed Message Queue](https://x.com/Harry_The_Nerd/status/2106418481130516785) | System design for a distributed message queue and streaming service like Kafka | 2026-10-04 |
