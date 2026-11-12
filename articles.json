@@ -523,6 +523,13 @@
       "category": "AI Engineering",
       "date": "2026-11-09",
       "description": "Understanding the working of LLMs"
+    },
+    {
+      "title": "Tokens And Context Windows",
+      "url": "https://x.com/Harry_The_Nerd/status/2120863048605073800",
+      "category": "AI Engineering",
+      "date": "2026-11-12",
+      "description": "What tokens are, how BPE builds them, why context windows fill up, and how tokens drive your bill"
     }
   ]
 }
